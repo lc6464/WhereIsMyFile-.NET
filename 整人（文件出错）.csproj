@@ -102,7 +102,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icon.ico" />
-    <Content Include="Resources\icon.ico" />
     <None Include="Resources\desktop.ini" />
     <None Include="Resources\LC.ico" />
     <None Include="Resources\Information.wav" />
